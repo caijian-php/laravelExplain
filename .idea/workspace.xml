@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b252a60c-cd47-4ccb-adab-6ef9ddac872b" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-pipeline/评语.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-pipeline/评语.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php-pipeline/评语.php">
+        <entry file="file://$PROJECT_DIR$/laravel-route-dispatch/点评.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -32,10 +32,13 @@
         <option value="$PROJECT_DIR$/lavavel-ServiceProvider/评语.php" />
         <option value="$PROJECT_DIR$/laravel-Facade/评语.php" />
         <option value="$PROJECT_DIR$/php-pipeline/评语.php" />
+        <option value="$PROJECT_DIR$/php-pipeline/debug.php" />
+        <option value="$PROJECT_DIR$/laravel-route-match/点评.php" />
+        <option value="$PROJECT_DIR$/laravel-route-dispatch/点评.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="180" />
     <option name="width" value="1748" />
     <option name="height" value="1051" />
@@ -52,11 +55,6 @@
             <path>
               <item name="laravelExplain" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravelExplain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravelExplain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravelExplain" type="462c0819:PsiDirectoryNode" />
-              <item name="php-pipeline" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -94,16 +92,15 @@
       <option name="presentableId" value="Default" />
       <updated>1577517198845</updated>
       <workItem from="1577517199924" duration="45000" />
-      <workItem from="1577777847502" duration="952000" />
+      <workItem from="1577777847502" duration="3902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="997000" />
+    <option name="totallyTimeSpent" value="3947000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22707888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -154,8 +151,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php-pipeline/评语.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-pipeline/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-route-match/点评.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-route-dispatch/点评.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
