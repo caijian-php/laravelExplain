@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b252a60c-cd47-4ccb-adab-6ef9ddac872b" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/laravel-auth/点评.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-auth/点评.php" afterDir="false" />
-    </list>
+    <list default="true" id="b252a60c-cd47-4ccb-adab-6ef9ddac872b" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel-auth/点评.php">
+        <entry file="file://$PROJECT_DIR$/laravel-controller-parameters/点评.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="100">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -36,10 +34,12 @@
         <option value="$PROJECT_DIR$/laravel-route-match/点评.php" />
         <option value="$PROJECT_DIR$/laravel-route-dispatch/点评.php" />
         <option value="$PROJECT_DIR$/laravel-auth/点评.php" />
+        <option value="$PROJECT_DIR$/laravel-parameters/点评.php" />
+        <option value="$PROJECT_DIR$/laravel-controller-parameters/点评.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="180" />
     <option name="width" value="1748" />
     <option name="height" value="1051" />
@@ -56,11 +56,6 @@
             <path>
               <item name="laravelExplain" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravelExplain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravelExplain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravelExplain" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel-auth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -98,12 +93,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577517198845</updated>
       <workItem from="1577517199924" duration="45000" />
-      <workItem from="1577777847502" duration="9208000" />
+      <workItem from="1577777847502" duration="10941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9253000" />
+    <option name="totallyTimeSpent" value="10986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -188,6 +183,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-controller-parameters/点评.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
