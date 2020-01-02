@@ -2,6 +2,20 @@
 /*
 https://learnku.com/articles/38911
 
+注册callback
+Illuminate\Foundation\Providers function boot()
+    $this->app->afterResolving(\Illuminate\Contracts\Validation\ValidatesWhenResolved::class, function ($resolved) {
+        resolved->validateResolved();
+    });
+        $resolved->validateResolved();
+            $instance = $this->getValidatorInstance();
+                 $validator = $this->createDefaultValidator
+                    return $factory->make()
+                        \Illuminate\Validation\Factory->make()
+                            \Illuminate\Validation\Factory->resolve()
+                                return new \Illuminate\Validation\Validator(...)
+
+
 事件触发
 runRoute
     return $this->prepareResponse($request,
@@ -32,22 +46,16 @@ runRoute
                                             return $this->resolve
                                                 $this->fireResolvingCallbacks($abstract, $object);
                                                     $this->fireAfterResolvingCallbacks($abstract, $object);
+                                                        protected function fireCallbackArray($object, array $callbacks)
+                                                        {
+                                                            foreach ($callbacks as $callback) {
+                                                                $callback($object, $this);
+                                                            }
+                                                        }
 
-触发获取
-Illuminate\Foundation\Providers function boot()
-    $this->app->afterResolving(\Illuminate\Contracts\Validation\ValidatesWhenResolved::class, function ($resolved) {
-        resolved->validateResolved();
-    });
-        $resolved->validateResolved();
-            $instance = $this->getValidatorInstance();
-                 $validator = $this->createDefaultValidator
-                    return $factory->make()
-                        \Illuminate\Validation\Factory->make()
-                            \Illuminate\Validation\Factory->resolve()
-                                return new \Illuminate\Validation\Validator(...)
-
-获取调用
-$this->fails();
-    $this->passes()
+调用Trait
+ValidatesWhenResolvedTrait function validateResolved
+    $this->fails();
+        $this->passes()
 
 
